@@ -7,7 +7,15 @@ A high-performance, single-screen Android social feed built with Jetpack Compose
 ## Deliverables & Quick Links
 
 - **Download Debug APK:** [artifacts/app-debug.apk](artifacts/app-debug.apk) (Ready to install on Android API 24+)
-- **Screen Recording / Demo:** Add your demo recording to `artifacts/demo.mp4` or view the live interactive app directly via the APK.
+- **Screen Recording / Demo:** 
+
+https://github.com/user-attachments/assets/f5ca7b0f-d710-488c-9ccb-7c170d55d536
+
+
+
+
+
+.
 - **Specification Context:** [AGENTS.md](AGENTS.md) (Complete architectural brief and assessment rubric).
 
 ---
